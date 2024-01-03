@@ -1,7 +1,7 @@
 {
   "APP_SETTINGS": {
     "name":"wastickerapp.funnyhindisticker",
-    "appReviewVersionCodeAdsOnOff": "8",
+    "appReviewVersionCodeAdsOnOff": "10",
     "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -18,7 +18,7 @@
     "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
-    "interstitialBack": "1",
+    "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
@@ -41,7 +41,7 @@
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "extraTools": "0"
+    "extraTools": "1"
   },
   "PLACEMENT": {
     "Admob": {
