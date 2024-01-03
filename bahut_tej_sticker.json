@@ -9,7 +9,7 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
@@ -36,12 +36,12 @@
     "nativedescription": "000000",
     "playStoreRateDialog": "0",
     "ratedialog": "1",
-    "startScreen": "0",
+    "startScreen": "1",
     "exitScreen": "1",
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "extraTools": "0"
+    "extraTools": "1"
   },
   "PLACEMENT": {
     "Admob": {
