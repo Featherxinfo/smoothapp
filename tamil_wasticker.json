@@ -1,7 +1,7 @@
 {
   "APP_SETTINGS": {
     "name":"tamilsticker",
-    "appReviewVersionCodeAdsOnOff": "5",
+    "appReviewVersionCodeAdsOnOff": "12",
     "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -9,22 +9,22 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "0",
     "app_backPressAdStatus": "0",
     "app_mainClickCntSwAd": "0",
     "app_nativeClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
-    "launchScreen": "0",
-    "interstitial": "0",
+    "launchScreen": "1",
+    "interstitial": "1",
     "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
     "nativeOnresume": "0",
     "native": "1",
-    "nativeType": "1",
+    "nativeType": "2",
     "nativeExit": "1",
     "nativeBanner": "1",
     "nativespacebox": "1",
@@ -45,11 +45,11 @@
   },
   "PLACEMENT": {
     "Admob": {
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "AppID": "ca-app-pub-2546308591763199~3280328988",
       "Banner1": "/6499/example/banner",
-      "Interstitial1": "ca-app-pub-2546308591763199/3971674336",
-      "Native1": "ca-app-pub-2546308591763199/3858912123",
-      "AppOpen1": "ca-app-pub-2546308591763199/6293503770"
+      "Interstitial1": "ca-app-pub-2546308591763199/5838016047",
+      "Native1": "ca-app-pub-2546308591763199/7500851573",
+      "AppOpen1": "ca-app-pub-2546308591763199/5864066774"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
