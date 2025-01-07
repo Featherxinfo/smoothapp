@@ -8,12 +8,12 @@
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
-    "app_dialogBeforeAdShow": "0",
+    "app_dialogBeforeAdShow": "1",
     "app_adShowStatus": "0",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
-    "app_mainClickCntSwAd": "5",
-    "app_nativeClickCntSwAd": "4",
+    "app_mainClickCntSwAd": "3",
+    "app_nativeClickCntSwAd": "3",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
@@ -47,9 +47,9 @@
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
       "Banner1": "/6499/example/banner",
-      "Interstitial1": "ca-app-pub-2546308591763199/3971674336",
-      "Native1": "ca-app-pub-2546308591763199/3858912123",
-      "AppOpen1": "ca-app-pub-2546308591763199/6293503770"
+      "Interstitial1": "/21775744923/example/interstitial",
+      "Native1": "/21775744923/example/native",
+      "AppOpen1": "/21775744923/example/app-open"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
