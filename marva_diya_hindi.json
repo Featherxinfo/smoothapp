@@ -1,7 +1,7 @@
 {
   "APP_SETTINGS": {
     "name":"wastickerapp.funnyhindisticker",
-    "appReviewVersionCodeAdsOnOff": "29",
+    "appReviewVersionCodeAdsOnOff": "30",
     "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -45,11 +45,11 @@
   },
   "PLACEMENT": {
     "Admob": {
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
-      "Interstitial1": "/21775744923/example/interstitial",
-      "Native1": "/21775744923/example/native",
-      "AppOpen1": "/21775744923/example/app-open"
+      "AppID": "ca-app-pub-2546308591763199~4555735256",
+      "Banner1": "ca-app-pub-2546308591763199/8367807155",
+      "Interstitial1": "ca-app-pub-2546308591763199/1851899066",
+      "Native1": "ca-app-pub-2546308591763199/2987487964",
+      "AppOpen1": "ca-app-pub-2546308591763199/1674406292"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
