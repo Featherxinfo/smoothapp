@@ -5,7 +5,7 @@
     "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
-    "app_versionCode": "",
+    "app_versionCode": "0",
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "1",
@@ -41,7 +41,7 @@
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "extraTools": "0"
+    "extraTools": "1"
   },
   "PLACEMENT": {
     "Admob": {
