@@ -1,63 +1,60 @@
 {
-"_ads comment": "0:OffAds & 1:OnAds",
-"ads": [
-{
-"enable": "on",
-"version_code": "11",
-"shownativeads": "on",
-"showinterads": "off",
-"showbannerads": "on",
-"showappopenads": "off",
-"showqureca": "off",
-"playstoreratedialog": "on",
-"maininterclick": "6",
-"nativespaceboxColor": "eeeeee",
-"nativebg": "eeeeee",
-"nativetitle": "515151",
-"nativebutton": "ff8f00",
-"nativedescription": "515151",
-"banner_id_a": "ca-app-pub-3940256099942544/6300978111",
-"banner_id_w": "ca-app-pub-3940256099942544/6300978111",
-"banner_id_m": "ca-app-pub-3940256099942544/6300978111",
-"banner_id_q": "/21798997504/ace_app_androiddev_com.wastickerapp.hindistickerfun_banner",
-"banner_id_s": "ca-app-pub-3940256099942544/6300978111",
-"banner_id_z": "ca-app-pub-3940256099942544/6300978111",
-"interstial_id_a": "ca-app-pub-3940256099942544/1033173712",
-"interstial_id_w": "ca-app-pub-3940256099942544/8691691433",
-"interstial_id_m": "ca-app-pub-3940256099942544/8691691433",
-"interstial_id_q": "/21798997504/ace_app_androiddev_com.wastickerapp.hindistickerfun_interestitial",
-"interstial_id_s": "/6499/example/interstitial",
-"interstial_id_z": "ca-app-pub-3940256099942544/8691691433",
-"native_id_a": "ca-app-pub-3940256099942544/2247696110",
-"native_id_w": "ca-app-pub-3940256099942544/2247696110",
-"native_id_m": "ca-app-pub-3940256099942544/2247696110",
-"native_id_q": "/21798997504/ace_app_androiddev_com.wastickerapp.hindistickerfun_native",
-"native_id_s": "ca-app-pub-3940256099942544/2247696110",
-"native_id_z": "ca-app-pub-3940256099942544/2247696110",
-"appopen_id_a": "ca-app-pub-3940256099942544/3419835294",
-"appopen_id_w": "ca-app-pub-3940256099942544/3419835294",
-"appopen_id_m": "ca-app-pub-3940256099942544/3419835294",
-"appopen_id_q": "/21798997504/ace_app_androiddev_com.wastickerapp.hindistickerfun_appopen",
-"appopen_id_s": "/6499/example/app-open",
-"appopen_id_z": "ca-app-pub-3940256099942544/3419835294"
-}
-],
-"_update comment": "0:None & 1:Normal & 2:Force",
-"update": [
-{
-"version_code": "40",
-"update_type": "0",
-"update_title": "App Update",
-"update_text": "Enjoy the latest update with Elegant layout and many more. Update app now..."
-}
-],
-"_transfer comment": "0:None & 1:Transfer",
-"transfer": [
-{
-"enable": "0",
-"transfer_title": "App Transfer",
-"transfer_text": "Enjoy the latest app with Elegant layout and many more. Update app now...",
-"link": "https://play.google.com/store/apps/details?id=com.autostamper.datetimestampphoto"
-}
-]
+  "APP_SETTINGS": {
+    "name":"wastickerapp.funnyhindisticker",
+    "appReviewVersionCodeAdsOnOff": "10",
+    "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
+    "app_needInternet": "1",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "",
+    "app_redirectOtherAppStatus": "0",
+    "app_newPackageName": "",
+    "app_dialogBeforeAdShow": "0",
+    "app_adShowStatus": "1",
+    "app_AppOpenAdStatus": "1",
+    "app_backPressAdStatus": "1",
+    "app_mainClickCntSwAd": "3",
+    "app_nativeClickCntSwAd": "2",
+    "app_innerClickCntSwAd": "0",
+    "ExitScreen": "1",
+    "launchScreen": "1",
+    "interstitial": "1",
+    "interstitialBack": "0",
+    "blankintercustomIn": "0",
+    "blankintercustomOut": "0",
+    "customAds": "0",
+    "nativeOnresume": "0",
+    "native": "1",
+    "nativeType": "1",
+    "nativeExit": "1",
+    "nativeBanner": "1",
+    "nativespacebox": "1",
+    "bannerspacebox": "1",
+    "nativespaceboxColor": "ffffff",
+    "nativebg": "FAEBD7",
+    "nativetitle": "000000",
+    "nativebutton": "2196f3",
+    "nativedescription": "000000",
+    "playStoreRateDialog": "0",
+    "ratedialog": "1",
+    "startScreen": "1",
+    "exitScreen": "1",
+    "secondsRemaining": "14",
+    "developerDialog": "1",
+    "privacyScreen": "1",
+    "extraTools": "1"
+  },
+  "PLACEMENT": {
+    "Admob": {
+      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "Banner1": "/6499/example/banner",
+      "Interstitial1": "ca-app-pub-2546308591763199/3971674336",
+      "Native1": "ca-app-pub-2546308591763199/3858912123",
+      "AppOpen1": "ca-app-pub-2546308591763199/6293503770"
+    },
+    "Facebookaudiencenetwork": {
+      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+    }
+  }
 }
