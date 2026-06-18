@@ -1,60 +1,68 @@
+
 {
-  "APP_SETTINGS": {
-    "name":"tamilsticker",
-    "appReviewVersionCodeAdsOnOff": "12",
-    "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
-    "app_needInternet": "1",
-    "app_updateAppDialogStatus": "0",
-    "app_versionCode": "",
-    "app_redirectOtherAppStatus": "0",
-    "app_newPackageName": "",
-    "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "1",
-    "app_AppOpenAdStatus": "0",
-    "app_backPressAdStatus": "0",
-    "app_mainClickCntSwAd": "0",
-    "app_nativeClickCntSwAd": "0",
-    "app_innerClickCntSwAd": "0",
-    "ExitScreen": "1",
-    "launchScreen": "1",
-    "interstitial": "1",
-    "interstitialBack": "0",
-    "blankintercustomIn": "0",
-    "blankintercustomOut": "0",
-    "customAds": "0",
-    "nativeOnresume": "0",
-    "native": "1",
-    "nativeType": "1",
-    "nativeExit": "1",
-    "nativeBanner": "1",
-    "nativespacebox": "1",
-    "bannerspacebox": "1",
-    "nativespaceboxColor": "ffffff",
-    "nativebg": "FAEBD7",
-    "nativetitle": "000000",
-    "nativebutton": "2196f3",
-    "nativedescription": "000000",
-    "playStoreRateDialog": "0",
-    "ratedialog": "1",
-    "startScreen": "1",
-    "exitScreen": "1",
-    "secondsRemaining": "14",
-    "developerDialog": "1",
-    "privacyScreen": "1",
-    "extraTools": "1"
-  },
-  "PLACEMENT": {
-    "Admob": {
-      "AppID": "ca-app-pub-2546308591763199~3280328988",
-      "Banner1": "ca-app-pub-2546308591763199/5838016047",
-      "Interstitial1": "ca-app-pub-2546308591763199/8149512286",
-      "Native1": "ca-app-pub-2546308591763199/7500851573",
-      "AppOpen1": "ca-app-pub-2546308591763199/5864066774"
-    },
-    "Facebookaudiencenetwork": {
-      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
-    }
+  "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
+  "data": {
+
+    "appzy_advShowStatus": "1",
+    "appzy_appOpenStatus": "1",
+
+    "appzy_appReviewVersionCodeAdsOnOff": "0",
+
+    
+    "appzy_appUpdateTransferLink": "",
+    "appzy_appUpdateDialog": "0",
+    "appzy_appVerCode": "4",
+    
+    "appzy_interstialStatus": "2",
+    "appzy_nativeStatus": "1",
+    "appzy_bannerStatus": "1",
+    "appzy_nativeOrBannerBigAd": "2",
+    "appzy_nativeOrBannerSmallAd": "1",
+
+    "appzy_nativeBigOnDemandAd": "1",
+    "appzy_bannerBottomOnDemandAd": "1",
+    "appzy_load_otherAd_beforeAd": "0",
+
+    "appzy_appOpenId": "ca-app-pub-3940256099942544/9257395921",
+    "appzy_bannerId": "ca-app-pub-3940256099942544/9214589741",
+    "appzy_interstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
+
+    "appzy_forwardClick": "3",
+    "appzy_backClick": "0",
+    "appzy_securityWarning": "1",
+    "appzy_splashTime": "14",
+    "appzy_forceInternet": "0",
+    "appzy_viewAdLoadDialog": "0",
+    "appzy_playStoreRate": "1",
+    "appzy_normalRate": "1",
+    "appzy_nativeSBoxColor": "ffffff",
+    "appzy_nativeBgClr": "FAEBD7",
+    "appzy_nativeTitleClr": "000000",
+    "appzy_nativeButtonClr": "2196f3",
+    "appzy_nativeDescClr": "000000",
+    "appzy_nativeBox": "1",
+    "appzy_bannerBox": "1",
+    "appzy_nativeExitAd": "1",
+    "appzy_privacyScreen": "1",
+    "appzy_backInterShow": "0",
+    "appzy_privacyPolicy": "https://sites.google.com/view/fittrack-terms-privacy-policy/home",
+    "appzy_otherAdStatus": "0",
+    "appzy_otherAppOpenStatus": "0",
+    "appzy_otherInterstitialStatus": "0",
+    "appzy_otherNativeBannerStatus": "0",
+
+ 
+    "appzy_otherAdData": [
+      {
+        "appzy_cust_name": "",
+        "appzy_cust_url": "",
+        "appzy_cust_appopen_image": "",
+        "appzy_cust_interstitial_image": "",
+        "appzy_cust_small_native_image": "",
+        "appzy_cust_native_image": "",
+        "appzy_cust_bigBanner_image": ""
+      }
+    ]
   }
-}
+} 
