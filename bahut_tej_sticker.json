@@ -45,8 +45,8 @@
   },
   "PLACEMENT": {
     "Admob": {
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
+      "AppID": "ca-app-pub-2546308591763199~3288066481",
+      "Banner1": "ca-app-pub-2546308591763199/7059790538",
       "Interstitial1": "ca-app-pub-2546308591763199/3971674336",
       "Native1": "ca-app-pub-2546308591763199/3858912123",
       "AppOpen1": "ca-app-pub-2546308591763199/6293503770"
