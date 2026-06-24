@@ -1,11 +1,11 @@
 {
   "APP_SETTINGS": {
     "name":"wastickerapp.funnyhindisticker",
-    "appReviewVersionCodeAdsOnOff": "30",
+    "appReviewVersionCodeAdsOnOff": "32",
     "app_privacyPolicyLink": "https://sites.google.com/view/smoothappsdeveloper",
     "app_needInternet": "1",
-    "app_updateAppDialogStatus": "0",
-    "app_versionCode": "0",
+    "app_updateAppDialogStatus": "1",
+    "app_versionCode": "31",
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "1",
