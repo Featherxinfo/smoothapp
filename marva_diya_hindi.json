@@ -17,7 +17,7 @@
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
-    "interstitial": "0",
+    "interstitial": "1",
     "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
